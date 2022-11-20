@@ -1,3 +1,10 @@
+# 2D Space Invaders
+A simplified version of the famous chicken invaders game. This game was created using the OpenGL which is a famous C/C++ Library for making 2D games.
+
+
+
+
+
 ========================================================================
     CONSOLE APPLICATION : OpenGL2DTemplate Project Overview
 ========================================================================
