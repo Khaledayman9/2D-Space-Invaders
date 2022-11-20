@@ -5,7 +5,6 @@ A simplified version of the famous chicken invaders game. This game was created 
 
 
 
-========================================================================
     CONSOLE APPLICATION : OpenGL2DTemplate Project Overview
 ========================================================================
 
