@@ -5,6 +5,9 @@ A simplified version of the famous chicken invaders game. This game was created 
 
 
 
+
+# Library and Modules
+
     CONSOLE APPLICATION : OpenGL2DTemplate Project Overview
 ========================================================================
 
@@ -30,17 +33,17 @@ OpenGL2DTemplate.vcxproj.filters
 OpenGL2DTemplate.cpp
     This is the main application source file.
 
-/////////////////////////////////////////////////////////////////////////////
+
 Other standard files:
 
 StdAfx.h, StdAfx.cpp
     These files are used to build a precompiled header (PCH) file
     named OpenGL2DTemplate.pch and a precompiled types file named StdAfx.obj.
 
-/////////////////////////////////////////////////////////////////////////////
+
 Other notes:
 
 AppWizard uses "TODO:" comments to indicate parts of the source code you
 should add to or customize.
 
-/////////////////////////////////////////////////////////////////////////////
+
