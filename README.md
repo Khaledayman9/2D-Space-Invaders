@@ -89,6 +89,21 @@ A simplified version of the famous chicken invaders game. This game was created 
 
 
 
+
+# Technologies
+
+* Microsoft Visual Studio 2019
+* C/C++
+* OpenGL
+
+
+# Setup
+
+1. Download the source code
+2. Add with it the .vs folder (that includes OpenGL2DTemplate/v16)
+3. Run the .cpp folder
+
+
 # OpenGL
 
     CONSOLE APPLICATION : OpenGL2DTemplate Project Overview
