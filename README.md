@@ -2,7 +2,8 @@
 A simplified version of the famous chicken invaders game. This game was created using the OpenGL which is a famous C/C++ Library for making 2D games.
 
 
-<p><img align = "right" alt = "gif" src="https://github.com/Khaledayman9/2D-Space-Invaders/blob/master/layout.gif" width = "500" height= "320/><p>
+
+![](https://github.com/Khaledayman9/2D-Space-Invaders/blob/master/layout.gif)
 
 
 
