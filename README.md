@@ -7,6 +7,12 @@ A simplified version of the famous chicken invaders game. This game was created 
 
 
 
+# Models
+
+1- The Player Model (Space ship model).
+2- The Enemy Model (Chicken model).
+
+
 # Library and Modules
 
     CONSOLE APPLICATION : OpenGL2DTemplate Project Overview
