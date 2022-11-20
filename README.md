@@ -10,8 +10,31 @@ A simplified version of the famous chicken invaders game. This game was created 
 # Models
 
 1- The Player Model (Space ship model).
+
 2- The Enemy Model (Chicken model).
 
+3- The Power Up Model.
+
+4- The Bullet Model for the spaceship.
+
+5- The Bullet Model for the chicken (Egg).
+
+6- The Moon Model.
+
+7- The Sun Model.
+
+
+# Rules
+
+- The Player Has 3 Lives.
+- The Chicken health is 100.
+- Each bullet deals 1 damage, either it is from the spaceship or it is from the chicken.
+- If the player has 0 lives then he loses (Defeat).
+- If the chicken has 0 health then the player wins (Victory).
+- Powerups are generated at random positions and in random times.
+- Whenever the player collides with the powerup, the spaceship changes color and he becomes bullet immune for a random amount of time.
+- The player can move in all directions in the middle of the screen.
+- The chicken is always at the top of the screen and can only move from left to right and vice versa. 
 
 # Library and Modules
 
